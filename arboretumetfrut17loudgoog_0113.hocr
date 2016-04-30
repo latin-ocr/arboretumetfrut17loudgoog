@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut17loudgoog_0113.png"; bbox 0 0 879 1346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 686 150 713 164">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 686 150 713 164">
+     <span class='ocr_line' id='line_1_1' title="bbox 686 150 713 164; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 686 150 713 164; x_wconf 74' lang='lat'><em>1⁵⁵</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 299 181 555 233">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 299 181 555 233">
+     <span class='ocr_line' id='line_1_2' title="bbox 299 181 555 202; baseline -0.012 -4"><span class='ocrx_word' id='word_1_2' title='bbox 299 183 382 202; x_wconf 51' lang='lat' dir='ltr'><strong>cmv-u</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 389 181 488 202; x_wconf 69' lang='lat' dir='ltr'><em>Ooeyacanaeha</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 496 182 555 200; x_wconf 62' lang='lat' dir='ltr'><em>mqlnae.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 322 213 532 233; baseline -0.01 -4"><span class='ocrx_word' id='word_1_5' title='bbox 322 214 373 232; x_wconf 72' lang='lat' dir='ltr'><em>Quem</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 380 213 438 233; x_wconf 69' lang='lat' dir='ltr'><em>Mary&#39;e</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 445 213 532 228; x_wconf 60' lang='lat' dir='ltr'><em>lin-thorn.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 364 804 493 817">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 364 804 493 817">
+     <span class='ocr_line' id='line_1_4' title="bbox 364 804 493 817; baseline -0.008 -2"><span class='ocrx_word' id='word_1_8' title='bbox 364 804 493 817; x_wconf 52' lang='lat' dir='ltr'><em>uun-wahan*</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

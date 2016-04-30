@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut17loudgoog_0143.png"; bbox 0 0 879 1346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 330 103 716 149">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 330 103 716 149">
+     <span class='ocr_line' id='line_1_1' title="bbox 364 103 716 122; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 364 103 413 122; x_wconf 70' lang='lat' dir='ltr'><strong><em>Pyra.-</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 420 104 485 118; x_wconf 56' lang='lat' dir='ltr'>finem.</span> <span class='ocrx_word' id='word_1_3' title='bbox 688 105 716 119; x_wconf 83' lang='lat'>1⁷0</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 330 134 522 149; baseline 0.005 -1"><span class='ocrx_word' id='word_1_4' title='bbox 330 134 363 149; x_wconf 62' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_5' title='bbox 371 134 435 149; x_wconf 61' lang='lat' dir='ltr'>cni-:ese</span> <span class='ocrx_word' id='word_1_6' title='bbox 442 134 480 149; x_wconf 70' lang='grc' dir='ltr'>Ρω</span> <span class='ocrx_word' id='word_1_7' title='bbox 487 137 522 149; x_wconf 53' lang='grc' dir='ltr'>ηις,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 356 768 486 781">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 356 768 486 781">
+     <span class='ocr_line' id='line_1_3' title="bbox 356 768 486 781; baseline 0.008 -4"><span class='ocrx_word' id='word_1_8' title='bbox 356 768 486 781; x_wconf 54' lang='lat' dir='ltr'>‚smmum-n...</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

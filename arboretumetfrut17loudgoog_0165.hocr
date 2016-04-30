@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut17loudgoog_0165.png"; bbox 0 0 879 1346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 722 130 748 144">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 722 130 748 144">
+     <span class='ocr_line' id='line_1_1' title="bbox 722 130 748 144; baseline 0.038 -1"><span class='ocrx_word' id='word_1_1' title='bbox 722 130 748 144; x_wconf 80' lang='lat'>181</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 299 181 620 233">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 299 181 620 233">
+     <span class='ocr_line' id='line_1_2' title="bbox 369 181 554 200; baseline 0 -4"><span class='ocrx_word' id='word_1_2' title='bbox 369 182 418 200; x_wconf 59' lang='lat' dir='ltr'><em>Pyra,</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 425 182 460 200; x_wconf 77' lang='lat' dir='ltr'>(A.)</span> <span class='ocrx_word' id='word_1_4' title='bbox 467 181 554 196; x_wconf 63' lang='lat' dir='ltr'>tammus.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 299 213 620 233; baseline -0.003 -5"><span class='ocrx_word' id='word_1_5' title='bbox 299 213 332 228; x_wconf 74' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_6' title='bbox 339 213 463 233; x_wconf 68' lang='lat' dir='ltr'>gripingsruitod</span> <span class='ocrx_word' id='word_1_7' title='bbox 469 213 510 228; x_wconf 79' lang='lat' dir='ltr'><strong>Wild</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 518 213 578 228; x_wconf 63' lang='lat' dir='ltr'>Servi-&gt;e</span> <span class='ocrx_word' id='word_1_9' title='bbox 584 215 620 227; x_wconf 70' lang='lat' dir='ltr'>trec.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 411 713 542 726">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 411 713 542 726">
+     <span class='ocr_line' id='line_1_4' title="bbox 411 713 542 726; baseline 0 -3"><span class='ocrx_word' id='word_1_10' title='bbox 411 714 420 723; x_wconf 87' lang='lat' dir='ltr'>n</span> <span class='ocrx_word' id='word_1_11' title='bbox 425 713 437 723; x_wconf 71' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_12' title='bbox 443 713 542 726; x_wconf 43' lang='lat' dir='ltr'>humanm-n&lt;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

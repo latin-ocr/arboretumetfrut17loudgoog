@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut17loudgoog_0207.png"; bbox 0 0 879 1346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 219 76 712 95">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 219 76 712 95">
+     <span class='ocr_line' id='line_1_1' title="bbox 219 76 712 95; baseline -0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 219 77 296 92; x_wconf 67' lang='lat' dir='ltr'>Fraxinus</span> <span class='ocrx_word' id='word_1_2' title='bbox 302 76 376 92; x_wconf 59' lang='lat' dir='ltr'>acimum</span> <span class='ocrx_word' id='word_1_3' title='bbox 398 77 431 92; x_wconf 75' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_4' title='bbox 438 77 485 95; x_wconf 67' lang='lat' dir='ltr'>ulier,</span> <span class='ocrx_word' id='word_1_5' title='bbox 493 82 510 91; x_wconf 80' lang='lat' dir='ltr'>or</span> <span class='ocrx_word' id='word_1_6' title='bbox 517 82 587 94; x_wconf 74' lang='lat' dir='ltr'>common,</span> <span class='ocrx_word' id='word_1_7' title='bbox 595 77 632 91; x_wconf 71' lang='lat' dir='ltr'>Aah.</span> <span class='ocrx_word' id='word_1_8' title='bbox 683 77 712 91; x_wconf 75' lang='lat'>202</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

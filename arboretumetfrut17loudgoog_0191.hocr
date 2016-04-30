@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut17loudgoog_0191.png"; bbox 0 0 879 1346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 220 1057 299 1179">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 220 1057 299 1179">
+     <span class='ocr_line' id='line_1_1' title="bbox 220 1057 299 1179; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 220 1057 299 1179; x_wconf 16' lang='lat' dir='ltr'>W*</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 340 186 511 237">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 340 186 511 237">
+     <span class='ocr_line' id='line_1_2' title="bbox 353 186 499 206; baseline 0 -5"><span class='ocrx_word' id='word_1_2' title='bbox 353 186 425 201; x_wconf 56' lang='lat' dir='ltr'>Awana</span> <span class='ocrx_word' id='word_1_3' title='bbox 431 186 499 206; x_wconf 59' lang='lat' dir='ltr'>hybrida</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 340 218 511 237; baseline 0 -5"><span class='ocrx_word' id='word_1_4' title='bbox 340 218 372 233; x_wconf 57' lang='lat' dir='ltr'>ne</span> <span class='ocrx_word' id='word_1_5' title='bbox 379 218 432 237; x_wconf 76' lang='lat' dir='ltr'>hybrid</span> <span class='ocrx_word' id='word_1_6' title='bbox 439 218 511 233; x_wconf 56' lang='lat' dir='ltr'>Arnum„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 373 786 498 798">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 373 786 498 798">
+     <span class='ocr_line' id='line_1_4' title="bbox 373 786 498 798; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 373 787 384 796; x_wconf 85' lang='lat' dir='ltr'>u</span> <span class='ocrx_word' id='word_1_8' title='bbox 388 786 400 796; x_wconf 76' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_9' title='bbox 405 786 462 798; x_wconf 63' lang='lat' dir='ltr'>mnam.</span> <span class='ocrx_word' id='word_1_10' title='bbox 467 786 498 796; x_wconf 69' lang='lat' dir='ltr'>num⁴</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 684 126 711 140">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 684 126 711 140">
+     <span class='ocr_line' id='line_1_5' title="bbox 684 126 711 140; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 684 126 711 140; x_wconf 76' lang='lat'>194</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
